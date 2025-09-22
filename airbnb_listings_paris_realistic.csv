@@ -1,0 +1,1001 @@
+ListingID,Neighborhood,RoomType,Bathrooms,Bedrooms,GuestsIncluded,MinimumNights,NumberOfReviews,ReviewScoresRating,Price
+1,Latin Quarter,Entire home/apt,3,1,5,14,426,96,277.5
+2,6th arrondissement,Entire home/apt,2,2,3,10,86,58,337.5
+3,7th arrondissement,Entire home/apt,2,3,3,5,77,61,382.5
+4,Le Marais,Private room,1,2,2,7,415,60,260.0
+5,2nd arrondissement,Entire home/apt,2,4,5,13,66,98,397.5
+6,7th arrondissement,Entire home/apt,3,1,4,12,346,87,307.5
+7,7th arrondissement,Entire home/apt,2,4,4,12,210,77,420.0
+8,Champs-Élysées,Entire home/apt,1,2,5,13,213,57,405.0
+9,Montmartre,Private room,3,1,4,3,184,59,205.0
+10,1st arrondissement,Shared room,2,4,1,6,448,74,189.0
+11,6th arrondissement,Shared room,2,1,4,12,452,96,140.0
+12,Montmartre,Shared room,2,2,1,8,432,85,161.0
+13,Le Marais,Shared room,3,4,5,13,32,99,217.0
+14,Montmartre,Entire home/apt,1,2,4,8,114,92,345.0
+15,Champs-Élysées,Shared room,3,4,4,2,274,58,224.0
+16,Le Marais,Shared room,3,3,1,6,419,90,199.5
+17,19th arrondissement,Private room,1,3,1,7,498,57,195.0
+18,19th arrondissement,Private room,3,3,3,12,197,52,195.0
+19,Latin Quarter,Private room,3,3,2,7,379,67,235.0
+20,Montmartre,Entire home/apt,2,3,4,3,142,95,382.5
+21,2nd arrondissement,Entire home/apt,3,2,2,14,227,84,322.5
+22,6th arrondissement,Entire home/apt,2,3,2,14,119,66,375.0
+23,Champs-Élysées,Private room,3,2,4,9,352,85,270.0
+24,Le Marais,Shared room,2,3,1,2,23,77,199.5
+25,6th arrondissement,Private room,2,1,3,11,26,99,200.0
+26,Montmartre,Entire home/apt,2,3,5,3,432,64,382.5
+27,2nd arrondissement,Private room,1,1,4,11,74,68,190.0
+28,Montmartre,Shared room,3,2,4,2,240,71,161.0
+29,1st arrondissement,Entire home/apt,3,3,5,11,22,55,367.5
+30,1st arrondissement,Shared room,3,4,2,9,160,96,189.0
+31,Champs-Élysées,Shared room,1,2,3,4,40,56,189.0
+32,Le Marais,Entire home/apt,2,3,2,2,237,93,427.5
+33,Le Marais,Shared room,3,2,5,3,238,97,182.0
+34,7th arrondissement,Private room,1,4,5,13,55,58,280.0
+35,Champs-Élysées,Shared room,1,3,3,4,412,69,206.5
+36,Champs-Élysées,Shared room,3,4,5,14,414,86,224.0
+37,2nd arrondissement,Shared room,2,3,5,10,448,60,168.0
+38,1st arrondissement,Private room,1,1,3,13,97,51,195.0
+39,Le Marais,Shared room,3,2,4,6,145,71,182.0
+40,20th arrondissement,Shared room,2,4,2,5,465,97,147.0
+41,Montmartre,Private room,1,2,4,3,261,85,230.0
+42,Champs-Élysées,Entire home/apt,1,4,4,10,435,54,480.0
+43,Latin Quarter,Entire home/apt,3,2,2,8,39,56,315.0
+44,Saint-Germain,Entire home/apt,3,2,4,8,192,55,375.0
+45,Le Marais,Shared room,2,2,3,7,238,71,182.0
+46,19th arrondissement,Entire home/apt,3,1,2,3,41,59,217.5
+47,Le Marais,Private room,3,3,1,14,221,95,285.0
+48,Latin Quarter,Shared room,2,1,4,1,195,89,129.5
+49,Le Marais,Shared room,3,2,5,5,287,95,182.0
+50,Latin Quarter,Shared room,2,4,2,1,9,95,182.0
+51,Saint-Germain,Entire home/apt,2,2,1,6,234,69,375.0
+52,7th arrondissement,Entire home/apt,2,3,5,11,324,77,382.5
+53,2nd arrondissement,Entire home/apt,3,1,1,7,264,72,285.0
+54,20th arrondissement,Shared room,2,3,4,12,68,84,129.5
+55,Saint-Germain,Private room,3,4,5,5,444,50,300.0
+56,6th arrondissement,Shared room,2,3,4,4,138,78,175.0
+57,7th arrondissement,Private room,3,1,5,2,354,58,205.0
+58,2nd arrondissement,Shared room,2,4,2,5,218,58,185.5
+59,1st arrondissement,Private room,1,3,3,9,195,71,245.0
+60,Latin Quarter,Shared room,1,1,3,4,73,51,129.5
+61,Champs-Élysées,Shared room,1,1,1,14,102,65,171.5
+62,6th arrondissement,Private room,2,2,5,2,224,89,225.0
+63,Saint-Germain,Private room,3,3,4,13,122,55,275.0
+64,Le Marais,Private room,2,4,2,6,101,62,310.0
+65,Saint-Germain,Private room,2,2,2,8,263,82,250.0
+66,2nd arrondissement,Private room,2,3,2,2,432,68,240.0
+67,6th arrondissement,Private room,2,3,3,9,407,64,250.0
+68,Montmartre,Private room,3,4,4,7,486,82,280.0
+69,2nd arrondissement,Private room,2,2,2,14,160,59,215.0
+70,7th arrondissement,Shared room,1,2,2,13,232,50,161.0
+71,Saint-Germain,Private room,1,4,1,2,490,61,300.0
+72,Saint-Germain,Private room,1,2,5,11,274,92,250.0
+73,6th arrondissement,Shared room,2,1,5,5,257,78,140.0
+74,Latin Quarter,Shared room,3,4,5,5,310,66,182.0
+75,6th arrondissement,Entire home/apt,3,3,1,7,138,53,375.0
+76,Champs-Élysées,Entire home/apt,3,4,3,13,226,78,480.0
+77,Saint-Germain,Private room,2,1,1,5,272,56,225.0
+78,Latin Quarter,Private room,3,4,2,11,425,93,260.0
+79,Latin Quarter,Entire home/apt,1,3,4,14,316,62,352.5
+80,6th arrondissement,Entire home/apt,3,3,2,6,386,54,375.0
+81,1st arrondissement,Private room,2,4,2,14,85,55,270.0
+82,2nd arrondissement,Entire home/apt,2,4,4,9,290,83,397.5
+83,7th arrondissement,Private room,3,1,5,3,468,56,205.0
+84,1st arrondissement,Shared room,2,1,1,3,216,95,136.5
+85,Saint-Germain,Shared room,3,3,3,8,358,77,192.5
+86,Saint-Germain,Entire home/apt,3,2,2,10,65,95,375.0
+87,20th arrondissement,Shared room,1,2,2,12,256,59,112.0
+88,Saint-Germain,Shared room,2,2,3,6,134,53,175.0
+89,19th arrondissement,Shared room,1,2,1,12,403,52,119.0
+90,Le Marais,Shared room,2,3,2,10,426,74,199.5
+91,Montmartre,Private room,3,2,3,3,374,72,230.0
+92,20th arrondissement,Private room,2,2,2,2,389,76,160.0
+93,19th arrondissement,Entire home/apt,3,4,5,13,54,63,330.0
+94,Montmartre,Shared room,2,2,5,2,355,87,161.0
+95,Latin Quarter,Shared room,1,4,2,2,242,81,182.0
+96,Saint-Germain,Shared room,1,3,2,5,251,72,192.5
+97,Champs-Élysées,Entire home/apt,3,4,5,12,20,96,480.0
+98,7th arrondissement,Private room,1,1,2,5,306,89,205.0
+99,6th arrondissement,Shared room,3,4,1,1,429,86,192.5
+100,7th arrondissement,Private room,3,2,1,2,162,52,230.0
+101,Champs-Élysées,Entire home/apt,3,4,4,2,355,84,480.0
+102,6th arrondissement,Private room,2,4,1,4,263,62,275.0
+103,Latin Quarter,Shared room,3,3,2,7,497,83,164.5
+104,Champs-Élysées,Private room,1,3,2,3,67,73,295.0
+105,Saint-Germain,Private room,2,2,3,5,106,50,250.0
+106,Champs-Élysées,Entire home/apt,1,1,1,11,399,61,367.5
+107,Saint-Germain,Entire home/apt,3,1,5,9,66,57,337.5
+108,Champs-Élysées,Entire home/apt,3,4,5,5,198,68,480.0
+109,20th arrondissement,Entire home/apt,1,1,4,9,191,58,202.5
+110,Champs-Élysées,Private room,2,3,3,1,1,77,295.0
+111,1st arrondissement,Private room,1,2,5,9,256,63,220.0
+112,7th arrondissement,Entire home/apt,3,2,4,14,441,76,345.0
+113,Montmartre,Entire home/apt,2,3,1,5,0,67,382.5
+114,19th arrondissement,Shared room,3,2,3,8,357,91,119.0
+115,1st arrondissement,Shared room,3,4,3,5,114,90,189.0
+116,Montmartre,Entire home/apt,1,2,2,14,390,55,345.0
+117,1st arrondissement,Private room,3,1,1,12,87,82,195.0
+118,Le Marais,Entire home/apt,1,2,3,6,196,86,390.0
+119,6th arrondissement,Private room,2,2,4,8,468,91,225.0
+120,20th arrondissement,Private room,3,3,5,2,91,74,185.0
+121,Saint-Germain,Shared room,3,3,1,3,273,62,192.5
+122,19th arrondissement,Entire home/apt,2,1,1,11,343,72,217.5
+123,1st arrondissement,Entire home/apt,1,3,3,9,159,85,367.5
+124,1st arrondissement,Private room,3,1,3,5,172,82,195.0
+125,Latin Quarter,Entire home/apt,2,4,3,5,32,70,390.0
+126,Champs-Élysées,Shared room,3,1,4,9,457,83,171.5
+127,Le Marais,Shared room,1,2,2,10,72,85,182.0
+128,19th arrondissement,Entire home/apt,1,1,3,3,432,66,217.5
+129,19th arrondissement,Entire home/apt,1,4,2,14,416,59,330.0
+130,6th arrondissement,Shared room,1,2,2,4,480,72,157.5
+131,19th arrondissement,Entire home/apt,2,1,1,7,454,93,217.5
+132,2nd arrondissement,Private room,3,3,5,2,195,51,240.0
+133,19th arrondissement,Entire home/apt,2,3,5,8,283,84,292.5
+134,1st arrondissement,Private room,1,3,4,5,86,63,245.0
+135,2nd arrondissement,Entire home/apt,1,1,4,1,308,96,285.0
+136,Montmartre,Entire home/apt,1,1,5,3,223,94,307.5
+137,Champs-Élysées,Shared room,1,4,5,9,43,90,224.0
+138,2nd arrondissement,Private room,3,2,1,5,335,51,215.0
+139,Montmartre,Shared room,1,2,1,8,493,68,161.0
+140,Le Marais,Entire home/apt,3,2,5,1,438,65,390.0
+141,7th arrondissement,Shared room,1,2,3,14,137,92,161.0
+142,Saint-Germain,Entire home/apt,3,1,3,7,269,93,337.5
+143,1st arrondissement,Entire home/apt,3,1,1,7,358,74,292.5
+144,2nd arrondissement,Entire home/apt,1,4,2,8,35,50,397.5
+145,7th arrondissement,Private room,2,2,5,3,33,51,230.0
+146,Champs-Élysées,Private room,2,1,4,1,87,97,245.0
+147,Latin Quarter,Private room,2,1,3,11,145,76,185.0
+148,20th arrondissement,Shared room,2,1,2,9,15,51,94.5
+149,Le Marais,Entire home/apt,2,1,3,1,232,79,352.5
+150,Saint-Germain,Shared room,1,2,2,11,420,100,175.0
+151,Champs-Élysées,Shared room,1,2,5,6,40,59,189.0
+152,20th arrondissement,Entire home/apt,1,1,5,9,254,68,202.5
+153,Le Marais,Shared room,1,3,5,14,280,91,199.5
+154,Latin Quarter,Entire home/apt,1,4,1,2,125,65,390.0
+155,Montmartre,Entire home/apt,1,2,2,4,7,62,345.0
+156,Latin Quarter,Entire home/apt,3,2,4,2,471,97,315.0
+157,2nd arrondissement,Entire home/apt,3,3,4,4,467,99,360.0
+158,Saint-Germain,Shared room,1,2,5,2,367,57,175.0
+159,19th arrondissement,Shared room,1,3,4,12,349,99,136.5
+160,6th arrondissement,Shared room,3,3,3,1,339,80,175.0
+161,1st arrondissement,Private room,3,1,2,11,401,94,195.0
+162,1st arrondissement,Shared room,1,2,2,3,323,74,154.0
+163,Montmartre,Shared room,3,4,2,8,175,88,196.0
+164,Champs-Élysées,Private room,2,3,3,5,227,70,295.0
+165,Saint-Germain,Entire home/apt,2,4,1,4,453,99,450.0
+166,19th arrondissement,Entire home/apt,2,1,3,5,322,87,217.5
+167,Montmartre,Entire home/apt,3,2,2,6,401,90,345.0
+168,6th arrondissement,Private room,1,1,2,6,366,78,200.0
+169,2nd arrondissement,Shared room,1,1,2,5,487,55,133.0
+170,2nd arrondissement,Shared room,1,4,4,12,17,67,185.5
+171,19th arrondissement,Shared room,3,4,1,11,55,98,154.0
+172,19th arrondissement,Shared room,3,3,3,12,406,93,136.5
+173,19th arrondissement,Private room,2,2,2,6,34,84,170.0
+174,Latin Quarter,Shared room,3,1,5,9,389,76,129.5
+175,20th arrondissement,Entire home/apt,2,3,1,5,117,54,277.5
+176,1st arrondissement,Private room,2,3,5,13,281,56,245.0
+177,7th arrondissement,Private room,1,1,1,6,253,59,205.0
+178,Saint-Germain,Entire home/apt,3,1,2,4,212,59,337.5
+179,7th arrondissement,Entire home/apt,1,3,1,13,60,100,382.5
+180,Latin Quarter,Shared room,1,1,1,3,87,77,129.5
+181,Champs-Élysées,Entire home/apt,3,1,2,13,270,85,367.5
+182,2nd arrondissement,Private room,3,4,5,12,346,59,265.0
+183,1st arrondissement,Private room,2,2,5,6,31,99,220.0
+184,19th arrondissement,Private room,2,3,4,11,395,84,195.0
+185,6th arrondissement,Shared room,2,1,5,11,132,84,140.0
+186,6th arrondissement,Shared room,2,3,5,5,63,86,175.0
+187,6th arrondissement,Entire home/apt,1,2,1,4,198,97,337.5
+188,Saint-Germain,Shared room,1,3,4,5,255,69,192.5
+189,19th arrondissement,Shared room,3,3,2,7,341,62,136.5
+190,1st arrondissement,Private room,2,3,2,1,154,60,245.0
+191,2nd arrondissement,Private room,2,4,3,14,462,94,265.0
+192,7th arrondissement,Entire home/apt,2,2,4,1,230,68,345.0
+193,19th arrondissement,Private room,1,2,1,11,300,77,170.0
+194,19th arrondissement,Shared room,3,3,3,13,34,87,136.5
+195,Latin Quarter,Entire home/apt,1,3,3,1,25,94,352.5
+196,Champs-Élysées,Entire home/apt,3,2,2,2,22,53,405.0
+197,6th arrondissement,Private room,3,1,5,9,140,86,200.0
+198,Montmartre,Private room,1,4,1,13,473,68,280.0
+199,1st arrondissement,Private room,1,2,4,5,386,86,220.0
+200,Latin Quarter,Entire home/apt,3,3,3,14,284,63,352.5
+201,Champs-Élysées,Private room,1,1,1,9,449,80,245.0
+202,20th arrondissement,Shared room,1,1,2,13,319,77,94.5
+203,Champs-Élysées,Entire home/apt,3,1,3,5,155,85,367.5
+204,Le Marais,Private room,3,4,3,14,470,93,310.0
+205,6th arrondissement,Shared room,2,4,2,7,419,87,192.5
+206,Le Marais,Shared room,1,2,2,14,112,68,182.0
+207,Latin Quarter,Private room,3,2,2,14,389,91,210.0
+208,Champs-Élysées,Shared room,1,2,1,6,138,50,189.0
+209,Montmartre,Entire home/apt,1,2,1,2,421,72,345.0
+210,1st arrondissement,Entire home/apt,3,3,1,3,373,77,367.5
+211,Le Marais,Shared room,2,4,5,5,417,97,217.0
+212,Champs-Élysées,Entire home/apt,3,1,3,4,208,53,367.5
+213,1st arrondissement,Private room,3,3,1,14,322,90,245.0
+214,20th arrondissement,Shared room,1,2,5,11,363,67,112.0
+215,6th arrondissement,Entire home/apt,2,2,3,6,429,98,337.5
+216,7th arrondissement,Private room,3,3,1,8,481,96,255.0
+217,1st arrondissement,Private room,1,1,2,8,85,100,195.0
+218,Champs-Élysées,Entire home/apt,3,4,4,3,284,88,480.0
+219,Latin Quarter,Shared room,1,4,1,4,59,74,182.0
+220,Le Marais,Private room,3,1,4,1,53,67,235.0
+221,Le Marais,Private room,2,4,1,2,92,55,310.0
+222,2nd arrondissement,Private room,3,2,2,13,324,68,215.0
+223,Champs-Élysées,Private room,1,2,4,9,457,61,270.0
+224,2nd arrondissement,Shared room,3,2,5,12,457,74,150.5
+225,20th arrondissement,Entire home/apt,2,2,2,10,372,84,240.0
+226,Montmartre,Entire home/apt,2,1,4,10,264,50,307.5
+227,Montmartre,Entire home/apt,2,4,4,2,381,54,420.0
+228,Champs-Élysées,Private room,2,4,2,12,212,50,320.0
+229,Le Marais,Shared room,1,3,2,6,332,57,199.5
+230,6th arrondissement,Entire home/apt,3,1,2,14,9,88,300.0
+231,Saint-Germain,Shared room,2,4,3,7,357,96,210.0
+232,Montmartre,Entire home/apt,3,4,5,6,202,92,420.0
+233,Le Marais,Private room,1,3,1,8,195,67,285.0
+234,19th arrondissement,Entire home/apt,3,2,4,9,57,95,255.0
+235,19th arrondissement,Private room,3,4,1,8,493,58,220.0
+236,2nd arrondissement,Private room,2,2,2,5,255,54,215.0
+237,1st arrondissement,Entire home/apt,2,3,5,8,222,53,367.5
+238,6th arrondissement,Shared room,1,4,5,10,368,93,192.5
+239,2nd arrondissement,Private room,3,2,3,10,179,78,215.0
+240,19th arrondissement,Shared room,1,1,2,9,417,50,101.5
+241,6th arrondissement,Entire home/apt,1,2,4,14,361,79,337.5
+242,Saint-Germain,Private room,1,2,3,8,34,94,250.0
+243,1st arrondissement,Shared room,2,2,2,2,358,50,154.0
+244,2nd arrondissement,Private room,2,2,3,2,102,52,215.0
+245,19th arrondissement,Entire home/apt,3,1,1,12,160,71,217.5
+246,20th arrondissement,Private room,3,3,2,3,199,57,185.0
+247,Montmartre,Entire home/apt,3,2,4,7,159,67,345.0
+248,Montmartre,Shared room,2,2,4,9,182,74,161.0
+249,2nd arrondissement,Private room,2,4,2,8,352,97,265.0
+250,20th arrondissement,Shared room,1,4,3,9,135,69,147.0
+251,Saint-Germain,Entire home/apt,2,1,5,6,429,80,337.5
+252,Saint-Germain,Entire home/apt,1,1,2,1,397,79,337.5
+253,Champs-Élysées,Shared room,1,1,4,14,225,65,171.5
+254,20th arrondissement,Shared room,2,4,1,12,391,51,147.0
+255,1st arrondissement,Entire home/apt,1,2,4,4,242,66,330.0
+256,Le Marais,Shared room,1,4,5,13,105,59,217.0
+257,Saint-Germain,Entire home/apt,3,3,4,6,70,56,412.5
+258,1st arrondissement,Shared room,1,1,5,12,76,91,136.5
+259,Saint-Germain,Entire home/apt,2,1,2,6,53,100,337.5
+260,Champs-Élysées,Entire home/apt,2,1,4,8,276,58,367.5
+261,7th arrondissement,Private room,1,3,3,1,110,66,255.0
+262,Saint-Germain,Entire home/apt,3,2,3,13,223,58,375.0
+263,20th arrondissement,Entire home/apt,2,2,4,11,74,58,240.0
+264,1st arrondissement,Private room,2,2,4,2,13,86,220.0
+265,20th arrondissement,Private room,3,1,1,2,458,73,135.0
+266,Champs-Élysées,Shared room,1,2,4,13,257,88,189.0
+267,Champs-Élysées,Shared room,2,4,1,6,481,60,224.0
+268,20th arrondissement,Entire home/apt,1,1,1,14,188,57,202.5
+269,1st arrondissement,Shared room,1,3,1,14,363,74,171.5
+270,1st arrondissement,Shared room,1,3,1,11,238,95,171.5
+271,Montmartre,Entire home/apt,1,2,2,7,400,51,345.0
+272,20th arrondissement,Private room,2,1,3,2,333,59,135.0
+273,7th arrondissement,Private room,3,4,1,5,472,73,280.0
+274,Champs-Élysées,Entire home/apt,2,4,3,6,303,97,480.0
+275,Montmartre,Entire home/apt,3,1,1,4,90,65,307.5
+276,6th arrondissement,Entire home/apt,1,2,3,1,391,68,337.5
+277,2nd arrondissement,Entire home/apt,3,3,4,3,183,80,360.0
+278,2nd arrondissement,Entire home/apt,1,3,4,14,16,60,360.0
+279,Champs-Élysées,Entire home/apt,2,4,3,10,452,55,480.0
+280,Montmartre,Shared room,2,4,1,9,11,55,196.0
+281,7th arrondissement,Shared room,3,4,2,13,165,81,196.0
+282,20th arrondissement,Shared room,1,3,3,6,145,88,129.5
+283,7th arrondissement,Private room,1,4,5,2,281,97,280.0
+284,6th arrondissement,Entire home/apt,3,3,2,9,478,62,375.0
+285,Champs-Élysées,Entire home/apt,1,3,5,4,36,52,442.5
+286,Saint-Germain,Shared room,1,2,3,11,69,90,175.0
+287,6th arrondissement,Private room,1,2,1,13,168,84,225.0
+288,Montmartre,Shared room,2,2,5,8,334,87,161.0
+289,Saint-Germain,Entire home/apt,2,4,3,10,169,66,450.0
+290,20th arrondissement,Entire home/apt,2,3,2,7,496,52,277.5
+291,2nd arrondissement,Shared room,1,4,1,12,252,83,185.5
+292,Latin Quarter,Shared room,2,3,5,11,345,61,164.5
+293,2nd arrondissement,Entire home/apt,1,2,3,3,498,73,322.5
+294,20th arrondissement,Shared room,1,2,1,8,459,55,112.0
+295,Champs-Élysées,Entire home/apt,3,4,1,4,296,91,480.0
+296,1st arrondissement,Shared room,1,3,4,2,430,60,171.5
+297,2nd arrondissement,Private room,2,4,1,11,141,97,265.0
+298,19th arrondissement,Entire home/apt,2,1,3,5,384,76,217.5
+299,2nd arrondissement,Private room,1,4,2,1,272,97,265.0
+300,2nd arrondissement,Shared room,2,2,4,13,224,73,150.5
+301,2nd arrondissement,Private room,1,3,3,8,182,67,240.0
+302,20th arrondissement,Shared room,3,3,3,14,220,76,129.5
+303,2nd arrondissement,Private room,1,4,3,8,52,90,265.0
+304,Saint-Germain,Private room,1,2,5,3,117,70,250.0
+305,Saint-Germain,Private room,3,1,5,1,364,100,225.0
+306,2nd arrondissement,Entire home/apt,2,4,2,4,158,83,397.5
+307,Le Marais,Private room,3,3,3,9,445,82,285.0
+308,Le Marais,Shared room,3,2,5,9,135,97,182.0
+309,Saint-Germain,Shared room,1,3,5,1,413,67,192.5
+310,Latin Quarter,Entire home/apt,1,3,5,11,76,52,352.5
+311,1st arrondissement,Entire home/apt,3,3,2,7,335,73,367.5
+312,6th arrondissement,Shared room,2,3,2,6,449,50,175.0
+313,19th arrondissement,Private room,3,1,3,14,44,55,145.0
+314,19th arrondissement,Shared room,2,2,4,7,17,68,119.0
+315,2nd arrondissement,Entire home/apt,3,4,3,7,354,71,397.5
+316,Latin Quarter,Entire home/apt,3,2,5,8,428,100,315.0
+317,Le Marais,Shared room,2,2,5,8,402,92,182.0
+318,Le Marais,Private room,3,2,1,10,204,57,260.0
+319,Latin Quarter,Private room,1,4,3,14,498,54,260.0
+320,1st arrondissement,Entire home/apt,3,2,5,11,323,58,330.0
+321,Saint-Germain,Shared room,1,4,5,2,82,96,210.0
+322,1st arrondissement,Shared room,2,4,4,12,49,70,189.0
+323,Champs-Élysées,Entire home/apt,2,1,1,12,280,77,367.5
+324,Champs-Élysées,Shared room,1,3,3,12,165,95,206.5
+325,Le Marais,Entire home/apt,3,4,2,4,242,53,465.0
+326,6th arrondissement,Private room,1,3,3,4,376,73,250.0
+327,Champs-Élysées,Private room,1,2,3,13,478,57,270.0
+328,20th arrondissement,Shared room,2,3,4,11,163,66,129.5
+329,Le Marais,Private room,1,3,3,10,323,83,285.0
+330,2nd arrondissement,Private room,3,3,4,12,55,69,240.0
+331,7th arrondissement,Entire home/apt,1,2,4,13,38,65,345.0
+332,7th arrondissement,Entire home/apt,2,2,5,8,318,59,345.0
+333,Montmartre,Shared room,3,4,2,14,127,83,196.0
+334,2nd arrondissement,Entire home/apt,2,4,4,13,390,92,397.5
+335,7th arrondissement,Shared room,1,1,1,13,121,59,143.5
+336,1st arrondissement,Shared room,1,2,1,3,246,79,154.0
+337,Montmartre,Entire home/apt,2,1,2,12,185,79,307.5
+338,Le Marais,Private room,2,2,4,13,207,100,260.0
+339,Latin Quarter,Private room,3,3,2,13,314,74,235.0
+340,Latin Quarter,Private room,2,1,5,12,303,95,185.0
+341,Le Marais,Private room,2,1,1,3,388,92,235.0
+342,6th arrondissement,Shared room,1,1,3,13,238,90,140.0
+343,Le Marais,Private room,1,2,1,2,214,56,260.0
+344,Saint-Germain,Shared room,2,4,4,1,291,96,210.0
+345,Latin Quarter,Entire home/apt,2,1,2,8,223,69,277.5
+346,7th arrondissement,Entire home/apt,1,4,1,14,87,66,420.0
+347,19th arrondissement,Shared room,3,2,3,9,24,52,119.0
+348,Montmartre,Private room,3,1,3,9,428,96,205.0
+349,6th arrondissement,Shared room,3,2,2,11,219,95,157.5
+350,Champs-Élysées,Private room,3,4,2,8,274,89,320.0
+351,2nd arrondissement,Private room,1,4,1,5,134,85,265.0
+352,6th arrondissement,Shared room,2,1,4,1,491,75,140.0
+353,Champs-Élysées,Shared room,3,4,5,9,441,59,224.0
+354,6th arrondissement,Private room,1,3,3,6,232,83,250.0
+355,19th arrondissement,Shared room,2,3,2,12,464,63,136.5
+356,20th arrondissement,Private room,3,1,5,7,65,57,135.0
+357,6th arrondissement,Shared room,2,2,5,8,79,76,157.5
+358,7th arrondissement,Entire home/apt,3,2,5,13,422,59,345.0
+359,Le Marais,Private room,2,2,4,5,254,99,260.0
+360,Saint-Germain,Entire home/apt,3,3,2,6,124,64,412.5
+361,Montmartre,Shared room,3,4,3,12,145,86,196.0
+362,Latin Quarter,Entire home/apt,2,3,2,13,102,71,352.5
+363,Champs-Élysées,Shared room,2,4,1,7,384,94,224.0
+364,20th arrondissement,Private room,2,3,3,7,446,99,185.0
+365,Montmartre,Shared room,1,2,2,2,386,80,161.0
+366,6th arrondissement,Shared room,1,2,3,14,382,51,157.5
+367,Le Marais,Private room,2,2,1,11,276,94,260.0
+368,Montmartre,Shared room,1,1,3,12,381,80,143.5
+369,Le Marais,Private room,3,1,5,14,123,63,235.0
+370,Champs-Élysées,Shared room,2,4,4,1,413,59,224.0
+371,7th arrondissement,Private room,1,1,1,8,266,79,205.0
+372,7th arrondissement,Entire home/apt,2,3,3,5,277,85,382.5
+373,Le Marais,Shared room,3,3,1,10,110,96,199.5
+374,Le Marais,Shared room,3,4,5,2,380,89,217.0
+375,Saint-Germain,Shared room,1,4,4,3,312,64,210.0
+376,2nd arrondissement,Private room,3,2,1,6,88,63,215.0
+377,20th arrondissement,Shared room,2,1,5,10,386,80,94.5
+378,Saint-Germain,Private room,1,2,5,6,157,78,250.0
+379,Montmartre,Shared room,2,1,5,8,215,76,143.5
+380,1st arrondissement,Entire home/apt,2,1,3,5,383,70,292.5
+381,Saint-Germain,Shared room,2,4,2,5,300,58,210.0
+382,Montmartre,Entire home/apt,3,2,1,7,35,69,345.0
+383,Latin Quarter,Private room,2,2,2,10,86,84,210.0
+384,Montmartre,Entire home/apt,3,1,5,13,117,64,307.5
+385,Montmartre,Shared room,2,1,2,14,327,73,143.5
+386,Le Marais,Shared room,3,4,5,5,447,98,217.0
+387,19th arrondissement,Private room,3,3,5,9,181,65,195.0
+388,6th arrondissement,Shared room,3,2,4,6,67,85,157.5
+389,Le Marais,Shared room,2,2,4,7,433,60,182.0
+390,20th arrondissement,Private room,2,4,2,12,358,57,210.0
+391,Le Marais,Private room,3,4,1,8,490,52,310.0
+392,20th arrondissement,Entire home/apt,2,2,2,13,158,68,240.0
+393,20th arrondissement,Private room,3,2,1,5,284,95,160.0
+394,19th arrondissement,Shared room,2,1,2,14,442,90,101.5
+395,19th arrondissement,Private room,3,3,3,11,163,52,195.0
+396,6th arrondissement,Shared room,3,2,3,4,460,85,157.5
+397,1st arrondissement,Entire home/apt,1,4,1,12,360,74,405.0
+398,20th arrondissement,Private room,2,1,4,8,72,85,135.0
+399,Latin Quarter,Shared room,2,1,1,12,118,60,129.5
+400,Saint-Germain,Private room,1,4,2,10,340,100,300.0
+401,Montmartre,Private room,3,4,5,9,498,65,280.0
+402,20th arrondissement,Private room,3,1,3,1,194,66,135.0
+403,Saint-Germain,Private room,1,4,5,3,88,91,300.0
+404,7th arrondissement,Entire home/apt,1,1,3,12,344,73,307.5
+405,Champs-Élysées,Shared room,3,4,2,4,75,66,224.0
+406,1st arrondissement,Private room,2,1,3,13,220,97,195.0
+407,Champs-Élysées,Shared room,1,2,1,7,138,69,189.0
+408,Montmartre,Entire home/apt,1,2,5,6,371,71,345.0
+409,19th arrondissement,Shared room,1,4,5,10,394,55,154.0
+410,Montmartre,Shared room,1,3,2,10,240,56,178.5
+411,Latin Quarter,Entire home/apt,1,2,5,11,153,63,315.0
+412,Saint-Germain,Private room,1,1,2,1,52,60,225.0
+413,20th arrondissement,Shared room,3,3,4,4,141,61,129.5
+414,6th arrondissement,Shared room,3,1,1,6,319,95,140.0
+415,2nd arrondissement,Private room,1,1,3,3,463,54,190.0
+416,20th arrondissement,Private room,3,2,3,2,393,54,160.0
+417,2nd arrondissement,Shared room,2,4,3,2,30,69,185.5
+418,6th arrondissement,Entire home/apt,2,4,4,10,222,64,412.5
+419,19th arrondissement,Private room,1,1,1,12,291,75,145.0
+420,2nd arrondissement,Private room,2,2,5,12,265,82,215.0
+421,19th arrondissement,Entire home/apt,2,1,5,4,281,79,217.5
+422,Le Marais,Shared room,3,3,1,13,275,73,199.5
+423,Latin Quarter,Private room,3,1,1,1,380,72,185.0
+424,20th arrondissement,Shared room,3,2,3,10,43,58,112.0
+425,1st arrondissement,Shared room,3,1,5,2,61,52,136.5
+426,Saint-Germain,Shared room,2,2,1,13,200,85,175.0
+427,Saint-Germain,Entire home/apt,1,4,5,10,334,97,450.0
+428,1st arrondissement,Shared room,3,2,1,2,8,56,154.0
+429,Montmartre,Shared room,2,3,2,4,70,71,178.5
+430,Montmartre,Private room,3,2,3,4,89,63,230.0
+431,Champs-Élysées,Private room,2,3,1,1,23,97,295.0
+432,Montmartre,Entire home/apt,3,3,4,7,139,78,382.5
+433,19th arrondissement,Entire home/apt,1,1,1,7,315,99,217.5
+434,6th arrondissement,Private room,3,3,2,10,339,65,250.0
+435,Le Marais,Private room,1,2,4,11,375,97,260.0
+436,1st arrondissement,Entire home/apt,3,4,4,10,77,83,405.0
+437,19th arrondissement,Shared room,3,2,1,10,213,59,119.0
+438,19th arrondissement,Entire home/apt,3,4,2,1,15,56,330.0
+439,Champs-Élysées,Shared room,2,3,4,11,28,74,206.5
+440,19th arrondissement,Private room,2,1,3,8,415,76,145.0
+441,Latin Quarter,Private room,1,3,3,10,466,64,235.0
+442,Montmartre,Private room,1,3,5,14,374,81,255.0
+443,Saint-Germain,Shared room,2,4,5,14,290,77,210.0
+444,Latin Quarter,Entire home/apt,1,2,2,7,42,58,315.0
+445,Le Marais,Shared room,1,1,4,7,351,56,164.5
+446,Le Marais,Entire home/apt,2,1,3,11,374,65,352.5
+447,Le Marais,Entire home/apt,2,1,3,6,52,75,352.5
+448,20th arrondissement,Entire home/apt,2,1,2,12,275,84,202.5
+449,Montmartre,Private room,2,2,4,4,370,66,230.0
+450,19th arrondissement,Entire home/apt,3,1,2,11,231,72,217.5
+451,Le Marais,Private room,2,4,1,8,211,57,310.0
+452,1st arrondissement,Entire home/apt,1,4,3,2,7,51,405.0
+453,Saint-Germain,Entire home/apt,3,1,2,7,121,80,337.5
+454,19th arrondissement,Private room,3,1,2,3,482,81,145.0
+455,Champs-Élysées,Private room,1,2,1,14,41,78,270.0
+456,Montmartre,Shared room,3,2,5,3,332,52,161.0
+457,6th arrondissement,Entire home/apt,1,1,3,14,232,57,300.0
+458,Latin Quarter,Private room,3,2,2,7,69,51,210.0
+459,7th arrondissement,Shared room,3,3,3,12,366,80,178.5
+460,Latin Quarter,Shared room,1,1,5,3,15,100,129.5
+461,Le Marais,Private room,1,2,2,5,68,98,260.0
+462,Saint-Germain,Entire home/apt,1,4,1,8,52,86,450.0
+463,Champs-Élysées,Shared room,1,1,3,14,172,69,171.5
+464,19th arrondissement,Entire home/apt,2,1,1,13,434,78,217.5
+465,1st arrondissement,Entire home/apt,2,4,5,4,481,66,405.0
+466,2nd arrondissement,Shared room,1,4,5,7,261,59,185.5
+467,Latin Quarter,Private room,2,2,3,7,378,90,210.0
+468,2nd arrondissement,Entire home/apt,1,4,5,2,288,71,397.5
+469,19th arrondissement,Private room,1,3,4,14,462,55,195.0
+470,Saint-Germain,Shared room,3,1,3,8,14,92,157.5
+471,2nd arrondissement,Entire home/apt,1,3,4,10,269,83,360.0
+472,Latin Quarter,Private room,1,2,5,12,166,80,210.0
+473,6th arrondissement,Private room,1,4,3,10,62,61,275.0
+474,7th arrondissement,Entire home/apt,1,1,4,14,260,61,307.5
+475,2nd arrondissement,Private room,3,4,5,9,499,65,265.0
+476,6th arrondissement,Private room,1,4,2,6,120,74,275.0
+477,6th arrondissement,Shared room,3,2,2,14,345,71,157.5
+478,Le Marais,Shared room,1,2,1,5,239,76,182.0
+479,7th arrondissement,Private room,3,2,2,1,464,73,230.0
+480,1st arrondissement,Private room,2,2,4,1,106,61,220.0
+481,20th arrondissement,Entire home/apt,3,1,2,9,494,67,202.5
+482,Latin Quarter,Shared room,3,3,3,14,179,94,164.5
+483,Champs-Élysées,Entire home/apt,1,3,3,4,15,96,442.5
+484,19th arrondissement,Private room,3,1,3,1,354,65,145.0
+485,Champs-Élysées,Entire home/apt,3,4,2,11,421,53,480.0
+486,2nd arrondissement,Private room,1,1,2,10,308,61,190.0
+487,7th arrondissement,Shared room,2,3,1,12,214,98,178.5
+488,2nd arrondissement,Shared room,2,3,5,3,76,82,168.0
+489,7th arrondissement,Private room,2,1,1,6,224,71,205.0
+490,Latin Quarter,Shared room,3,2,4,14,92,67,147.0
+491,19th arrondissement,Private room,1,4,3,11,180,97,220.0
+492,19th arrondissement,Entire home/apt,2,1,2,13,173,82,217.5
+493,Latin Quarter,Private room,2,3,5,13,353,76,235.0
+494,1st arrondissement,Entire home/apt,2,2,5,11,353,91,330.0
+495,6th arrondissement,Private room,2,4,2,8,218,68,275.0
+496,7th arrondissement,Shared room,1,3,1,13,142,97,178.5
+497,Montmartre,Private room,2,4,5,10,314,63,280.0
+498,Montmartre,Private room,3,2,1,2,433,74,230.0
+499,6th arrondissement,Private room,3,3,2,8,392,83,250.0
+500,20th arrondissement,Shared room,1,2,1,14,281,73,112.0
+501,2nd arrondissement,Private room,2,1,3,13,258,87,190.0
+502,7th arrondissement,Shared room,2,1,2,1,355,72,143.5
+503,20th arrondissement,Private room,3,4,2,11,46,54,210.0
+504,Saint-Germain,Entire home/apt,1,2,5,2,4,93,375.0
+505,19th arrondissement,Private room,3,2,5,8,61,85,170.0
+506,Champs-Élysées,Entire home/apt,1,4,5,7,467,73,480.0
+507,Saint-Germain,Shared room,1,4,3,5,83,85,210.0
+508,Champs-Élysées,Shared room,1,4,3,13,132,54,224.0
+509,19th arrondissement,Private room,3,1,4,10,393,88,145.0
+510,Montmartre,Shared room,1,4,2,2,335,55,196.0
+511,20th arrondissement,Private room,3,1,5,9,62,94,135.0
+512,Latin Quarter,Shared room,3,4,2,5,280,85,182.0
+513,1st arrondissement,Entire home/apt,2,2,1,8,43,94,330.0
+514,Le Marais,Shared room,3,2,3,13,152,53,182.0
+515,2nd arrondissement,Entire home/apt,3,4,4,4,413,59,397.5
+516,6th arrondissement,Private room,2,4,1,14,269,50,275.0
+517,Montmartre,Private room,2,1,2,9,341,70,205.0
+518,Latin Quarter,Private room,2,3,3,10,170,89,235.0
+519,20th arrondissement,Entire home/apt,1,1,5,7,155,88,202.5
+520,Latin Quarter,Private room,1,2,1,2,477,86,210.0
+521,Champs-Élysées,Private room,2,4,3,3,274,52,320.0
+522,Latin Quarter,Entire home/apt,1,2,2,14,357,96,315.0
+523,7th arrondissement,Shared room,2,3,2,2,425,80,178.5
+524,2nd arrondissement,Private room,1,1,1,5,19,76,190.0
+525,Le Marais,Shared room,3,2,1,2,482,66,182.0
+526,Montmartre,Shared room,1,1,1,5,213,72,143.5
+527,7th arrondissement,Private room,1,4,4,13,78,62,280.0
+528,Montmartre,Private room,3,2,5,9,138,96,230.0
+529,1st arrondissement,Entire home/apt,2,3,3,2,437,76,367.5
+530,Le Marais,Entire home/apt,1,1,2,9,97,100,352.5
+531,Latin Quarter,Private room,1,1,2,7,376,69,185.0
+532,1st arrondissement,Shared room,3,3,5,7,151,95,171.5
+533,Champs-Élysées,Entire home/apt,3,2,1,14,197,62,405.0
+534,20th arrondissement,Entire home/apt,3,2,1,5,272,93,240.0
+535,1st arrondissement,Private room,3,1,2,8,155,73,195.0
+536,Saint-Germain,Private room,2,3,5,7,49,90,275.0
+537,Champs-Élysées,Private room,1,1,2,6,478,52,245.0
+538,Le Marais,Private room,1,1,1,2,227,92,235.0
+539,2nd arrondissement,Entire home/apt,1,4,3,6,438,59,397.5
+540,Saint-Germain,Entire home/apt,1,2,1,14,456,50,375.0
+541,Montmartre,Entire home/apt,2,2,3,2,9,98,345.0
+542,6th arrondissement,Shared room,1,4,4,1,148,62,192.5
+543,6th arrondissement,Entire home/apt,2,2,5,9,57,63,337.5
+544,Saint-Germain,Entire home/apt,2,2,4,13,161,82,375.0
+545,2nd arrondissement,Private room,3,2,1,5,350,51,215.0
+546,7th arrondissement,Entire home/apt,3,3,5,10,476,51,382.5
+547,6th arrondissement,Entire home/apt,1,4,1,10,106,88,412.5
+548,Saint-Germain,Entire home/apt,2,1,5,4,426,90,337.5
+549,Le Marais,Private room,3,3,5,12,394,80,285.0
+550,19th arrondissement,Entire home/apt,2,1,1,11,288,53,217.5
+551,2nd arrondissement,Entire home/apt,3,4,1,8,185,83,397.5
+552,2nd arrondissement,Shared room,2,4,5,5,45,68,185.5
+553,7th arrondissement,Shared room,1,4,5,14,444,86,196.0
+554,Champs-Élysées,Shared room,1,2,1,7,445,58,189.0
+555,Latin Quarter,Shared room,2,3,1,3,128,73,164.5
+556,6th arrondissement,Private room,3,4,2,8,404,62,275.0
+557,Latin Quarter,Shared room,3,1,2,8,317,93,129.5
+558,Latin Quarter,Entire home/apt,1,2,2,3,447,79,315.0
+559,Le Marais,Shared room,1,2,4,9,86,68,182.0
+560,Montmartre,Private room,1,3,5,14,248,90,255.0
+561,Latin Quarter,Shared room,3,3,3,8,328,59,164.5
+562,2nd arrondissement,Shared room,3,3,4,1,439,100,168.0
+563,7th arrondissement,Private room,1,2,5,8,256,91,230.0
+564,7th arrondissement,Private room,2,4,3,12,276,93,280.0
+565,19th arrondissement,Private room,3,1,2,11,277,63,145.0
+566,Montmartre,Private room,1,4,3,4,437,89,280.0
+567,Champs-Élysées,Private room,2,1,1,6,3,97,245.0
+568,2nd arrondissement,Private room,3,4,1,14,64,98,265.0
+569,2nd arrondissement,Entire home/apt,2,3,5,13,434,69,360.0
+570,19th arrondissement,Shared room,2,1,4,10,201,53,101.5
+571,1st arrondissement,Shared room,3,2,2,9,62,87,154.0
+572,20th arrondissement,Private room,1,1,5,5,142,93,135.0
+573,19th arrondissement,Private room,2,2,2,7,243,99,170.0
+574,Latin Quarter,Entire home/apt,1,4,1,13,291,88,390.0
+575,Saint-Germain,Entire home/apt,3,3,4,1,284,54,412.5
+576,7th arrondissement,Private room,2,1,4,9,179,91,205.0
+577,19th arrondissement,Entire home/apt,2,2,1,14,173,81,255.0
+578,Latin Quarter,Entire home/apt,2,4,3,6,324,55,390.0
+579,6th arrondissement,Private room,2,3,4,11,412,63,250.0
+580,Montmartre,Private room,2,3,3,4,110,55,255.0
+581,2nd arrondissement,Private room,3,3,2,6,174,63,240.0
+582,1st arrondissement,Private room,2,4,4,5,474,61,270.0
+583,Montmartre,Shared room,3,4,1,3,152,76,196.0
+584,Latin Quarter,Shared room,1,4,3,7,463,75,182.0
+585,Champs-Élysées,Private room,3,3,2,3,399,61,295.0
+586,20th arrondissement,Entire home/apt,2,1,2,13,355,57,202.5
+587,6th arrondissement,Private room,1,2,4,14,216,59,225.0
+588,Latin Quarter,Shared room,3,4,4,13,296,65,182.0
+589,Saint-Germain,Entire home/apt,3,1,5,2,448,75,337.5
+590,Le Marais,Shared room,3,2,5,14,452,57,182.0
+591,Latin Quarter,Private room,2,3,4,4,488,90,235.0
+592,20th arrondissement,Shared room,2,1,5,7,403,94,94.5
+593,19th arrondissement,Shared room,3,3,1,5,452,78,136.5
+594,Latin Quarter,Shared room,3,2,1,14,419,69,147.0
+595,19th arrondissement,Entire home/apt,1,4,5,9,476,66,330.0
+596,Champs-Élysées,Shared room,2,3,4,10,239,68,206.5
+597,2nd arrondissement,Entire home/apt,2,1,1,7,225,66,285.0
+598,7th arrondissement,Private room,1,4,2,12,185,88,280.0
+599,Le Marais,Private room,3,1,4,14,47,50,235.0
+600,Champs-Élysées,Shared room,3,2,3,9,465,78,189.0
+601,20th arrondissement,Entire home/apt,1,2,3,14,385,63,240.0
+602,19th arrondissement,Private room,3,4,4,9,207,66,220.0
+603,7th arrondissement,Entire home/apt,3,1,5,12,156,62,307.5
+604,Saint-Germain,Entire home/apt,1,1,1,2,224,78,337.5
+605,Montmartre,Shared room,1,1,1,1,143,83,143.5
+606,Le Marais,Shared room,1,1,4,11,418,76,164.5
+607,1st arrondissement,Entire home/apt,3,2,2,4,110,95,330.0
+608,Champs-Élysées,Entire home/apt,1,1,5,4,317,82,367.5
+609,Montmartre,Shared room,3,2,2,13,362,78,161.0
+610,Montmartre,Entire home/apt,2,1,4,2,361,86,307.5
+611,20th arrondissement,Shared room,2,1,4,3,464,88,94.5
+612,Latin Quarter,Entire home/apt,1,3,2,3,131,68,352.5
+613,Latin Quarter,Shared room,3,3,3,5,112,95,164.5
+614,1st arrondissement,Entire home/apt,3,1,4,1,323,73,292.5
+615,1st arrondissement,Shared room,3,2,5,9,434,63,154.0
+616,19th arrondissement,Entire home/apt,1,1,2,8,88,96,217.5
+617,1st arrondissement,Private room,3,3,3,8,160,86,245.0
+618,Montmartre,Private room,3,1,2,3,333,54,205.0
+619,19th arrondissement,Entire home/apt,3,3,3,2,407,73,292.5
+620,7th arrondissement,Private room,2,1,3,1,74,83,205.0
+621,20th arrondissement,Entire home/apt,3,4,5,12,280,99,315.0
+622,2nd arrondissement,Entire home/apt,2,1,4,6,411,80,285.0
+623,2nd arrondissement,Private room,3,2,3,13,6,79,215.0
+624,20th arrondissement,Entire home/apt,3,3,4,10,112,58,277.5
+625,2nd arrondissement,Shared room,3,4,5,1,35,76,185.5
+626,Le Marais,Entire home/apt,2,3,4,14,265,77,427.5
+627,Le Marais,Entire home/apt,3,3,1,11,112,91,427.5
+628,1st arrondissement,Private room,1,2,3,5,291,75,220.0
+629,2nd arrondissement,Shared room,3,1,5,9,222,67,133.0
+630,Saint-Germain,Entire home/apt,2,2,2,11,210,85,375.0
+631,Latin Quarter,Entire home/apt,2,1,5,9,17,57,277.5
+632,Saint-Germain,Entire home/apt,1,4,3,13,240,67,450.0
+633,2nd arrondissement,Entire home/apt,1,2,5,12,133,69,322.5
+634,2nd arrondissement,Entire home/apt,1,2,2,4,219,81,322.5
+635,Latin Quarter,Entire home/apt,2,3,1,7,390,78,352.5
+636,2nd arrondissement,Shared room,3,2,3,14,101,98,150.5
+637,Champs-Élysées,Shared room,3,1,3,11,139,97,171.5
+638,Montmartre,Entire home/apt,1,2,5,7,168,67,345.0
+639,19th arrondissement,Entire home/apt,1,2,4,4,497,56,255.0
+640,Latin Quarter,Private room,3,4,4,5,190,50,260.0
+641,2nd arrondissement,Shared room,1,1,2,11,481,77,133.0
+642,Le Marais,Shared room,3,3,1,9,24,82,199.5
+643,Le Marais,Entire home/apt,3,1,1,7,464,99,352.5
+644,Montmartre,Shared room,3,4,5,7,436,53,196.0
+645,Le Marais,Shared room,3,1,5,10,32,69,164.5
+646,19th arrondissement,Private room,2,1,4,7,342,85,145.0
+647,6th arrondissement,Private room,3,2,1,9,328,80,225.0
+648,20th arrondissement,Shared room,1,2,1,5,5,87,112.0
+649,6th arrondissement,Shared room,1,1,1,6,445,77,140.0
+650,6th arrondissement,Shared room,1,1,2,3,193,52,140.0
+651,Montmartre,Entire home/apt,1,3,2,1,229,55,382.5
+652,Montmartre,Private room,2,4,5,11,136,94,280.0
+653,19th arrondissement,Entire home/apt,3,2,4,12,322,72,255.0
+654,Latin Quarter,Private room,3,2,3,2,399,56,210.0
+655,1st arrondissement,Private room,1,2,4,8,472,85,220.0
+656,6th arrondissement,Private room,1,2,2,13,215,50,225.0
+657,Le Marais,Shared room,1,1,2,1,494,55,164.5
+658,Saint-Germain,Private room,3,1,5,10,348,73,225.0
+659,1st arrondissement,Entire home/apt,2,3,3,7,363,86,367.5
+660,19th arrondissement,Private room,2,2,1,5,182,94,170.0
+661,Latin Quarter,Entire home/apt,2,2,3,13,167,100,315.0
+662,Le Marais,Private room,2,1,3,6,281,85,235.0
+663,2nd arrondissement,Private room,1,3,3,8,37,73,240.0
+664,Latin Quarter,Shared room,3,1,5,4,162,87,129.5
+665,6th arrondissement,Entire home/apt,1,2,2,6,470,94,337.5
+666,6th arrondissement,Private room,2,2,1,14,451,78,225.0
+667,2nd arrondissement,Private room,1,4,3,11,442,86,265.0
+668,19th arrondissement,Entire home/apt,2,4,1,3,489,94,330.0
+669,7th arrondissement,Private room,3,4,3,7,141,81,280.0
+670,Latin Quarter,Shared room,2,3,2,2,247,74,164.5
+671,2nd arrondissement,Entire home/apt,1,1,1,12,430,59,285.0
+672,19th arrondissement,Shared room,3,2,4,8,102,84,119.0
+673,19th arrondissement,Entire home/apt,2,2,2,13,198,74,255.0
+674,Montmartre,Entire home/apt,2,3,1,7,199,76,382.5
+675,Latin Quarter,Entire home/apt,3,2,3,12,41,94,315.0
+676,Le Marais,Private room,1,2,3,12,434,81,260.0
+677,7th arrondissement,Entire home/apt,3,1,2,8,146,61,307.5
+678,Champs-Élysées,Entire home/apt,1,4,2,2,65,53,480.0
+679,Saint-Germain,Entire home/apt,2,4,3,3,430,91,450.0
+680,Latin Quarter,Shared room,2,3,1,12,192,75,164.5
+681,1st arrondissement,Entire home/apt,3,4,4,4,297,52,405.0
+682,19th arrondissement,Private room,2,4,5,12,37,66,220.0
+683,Montmartre,Entire home/apt,3,3,2,9,140,58,382.5
+684,2nd arrondissement,Entire home/apt,2,3,3,12,105,78,360.0
+685,6th arrondissement,Shared room,2,4,1,12,427,50,192.5
+686,2nd arrondissement,Private room,1,1,2,5,151,67,190.0
+687,2nd arrondissement,Private room,3,3,1,6,351,90,240.0
+688,7th arrondissement,Private room,3,2,2,1,413,69,230.0
+689,Latin Quarter,Entire home/apt,2,3,3,4,325,90,352.5
+690,2nd arrondissement,Entire home/apt,1,2,1,14,37,83,322.5
+691,7th arrondissement,Private room,1,3,3,4,96,100,255.0
+692,Champs-Élysées,Private room,3,3,1,10,107,77,295.0
+693,Le Marais,Shared room,3,4,2,8,118,97,217.0
+694,Champs-Élysées,Private room,2,4,5,8,150,84,320.0
+695,Latin Quarter,Entire home/apt,3,4,5,10,73,65,390.0
+696,6th arrondissement,Entire home/apt,2,1,4,6,56,70,300.0
+697,Champs-Élysées,Entire home/apt,1,4,4,8,365,62,480.0
+698,7th arrondissement,Shared room,3,4,3,9,334,84,196.0
+699,7th arrondissement,Private room,1,3,1,5,251,91,255.0
+700,Saint-Germain,Entire home/apt,1,3,4,1,406,81,412.5
+701,19th arrondissement,Shared room,2,1,2,1,291,99,101.5
+702,1st arrondissement,Shared room,1,2,5,2,312,87,154.0
+703,1st arrondissement,Entire home/apt,2,3,1,2,254,55,367.5
+704,Latin Quarter,Shared room,2,3,5,5,253,99,164.5
+705,20th arrondissement,Shared room,1,2,1,7,384,87,112.0
+706,19th arrondissement,Entire home/apt,1,1,4,7,455,87,217.5
+707,Saint-Germain,Shared room,2,3,4,4,258,62,192.5
+708,Montmartre,Entire home/apt,2,4,3,13,269,95,420.0
+709,2nd arrondissement,Entire home/apt,1,1,1,4,464,88,285.0
+710,Champs-Élysées,Shared room,2,2,2,14,33,62,189.0
+711,19th arrondissement,Entire home/apt,2,2,4,14,494,96,255.0
+712,2nd arrondissement,Entire home/apt,3,4,3,11,325,61,397.5
+713,Montmartre,Private room,3,4,4,10,324,82,280.0
+714,6th arrondissement,Entire home/apt,3,4,5,3,237,77,412.5
+715,Saint-Germain,Private room,3,1,4,11,178,52,225.0
+716,2nd arrondissement,Private room,3,2,1,2,488,67,215.0
+717,Saint-Germain,Private room,2,4,3,3,103,75,300.0
+718,Saint-Germain,Private room,2,4,1,8,28,89,300.0
+719,19th arrondissement,Shared room,3,2,2,1,226,51,119.0
+720,7th arrondissement,Shared room,1,3,2,4,465,53,178.5
+721,Le Marais,Entire home/apt,3,1,4,7,231,99,352.5
+722,Latin Quarter,Entire home/apt,1,3,3,5,303,77,352.5
+723,1st arrondissement,Entire home/apt,2,4,3,2,349,77,405.0
+724,Saint-Germain,Shared room,1,1,3,1,334,74,157.5
+725,19th arrondissement,Private room,2,3,3,6,116,75,195.0
+726,19th arrondissement,Shared room,1,2,4,13,206,94,119.0
+727,2nd arrondissement,Shared room,2,4,1,13,399,96,185.5
+728,2nd arrondissement,Entire home/apt,2,1,4,5,184,51,285.0
+729,Champs-Élysées,Entire home/apt,3,1,1,3,480,91,367.5
+730,Saint-Germain,Entire home/apt,2,1,5,11,137,83,337.5
+731,Le Marais,Private room,3,1,5,11,402,79,235.0
+732,Latin Quarter,Private room,3,4,1,11,484,70,260.0
+733,Latin Quarter,Shared room,3,4,4,9,497,93,182.0
+734,20th arrondissement,Private room,1,2,2,3,322,86,160.0
+735,6th arrondissement,Entire home/apt,1,2,4,2,163,93,337.5
+736,6th arrondissement,Private room,2,2,2,5,387,72,225.0
+737,Champs-Élysées,Private room,3,3,4,9,74,82,295.0
+738,1st arrondissement,Private room,3,2,3,8,232,51,220.0
+739,6th arrondissement,Private room,2,4,3,6,416,76,275.0
+740,Montmartre,Entire home/apt,3,3,5,3,283,97,382.5
+741,Champs-Élysées,Entire home/apt,2,4,5,6,479,71,480.0
+742,Latin Quarter,Shared room,3,3,1,5,376,83,164.5
+743,Latin Quarter,Shared room,1,2,2,1,254,65,147.0
+744,20th arrondissement,Shared room,2,2,3,5,463,69,112.0
+745,Le Marais,Private room,2,2,4,14,8,75,260.0
+746,19th arrondissement,Private room,1,3,1,7,202,65,195.0
+747,Montmartre,Entire home/apt,2,4,4,9,389,55,420.0
+748,1st arrondissement,Shared room,1,1,3,12,378,94,136.5
+749,2nd arrondissement,Entire home/apt,3,4,3,1,304,93,397.5
+750,Champs-Élysées,Shared room,1,2,3,3,90,72,189.0
+751,6th arrondissement,Shared room,1,3,3,8,380,91,175.0
+752,7th arrondissement,Shared room,2,3,4,6,331,86,178.5
+753,20th arrondissement,Private room,3,2,1,13,149,57,160.0
+754,20th arrondissement,Shared room,1,3,3,5,359,55,129.5
+755,Le Marais,Shared room,3,2,5,13,175,86,182.0
+756,20th arrondissement,Private room,1,4,1,10,484,71,210.0
+757,Latin Quarter,Shared room,2,3,5,2,404,55,164.5
+758,20th arrondissement,Private room,1,1,4,3,32,81,135.0
+759,7th arrondissement,Private room,1,3,3,12,464,66,255.0
+760,Champs-Élysées,Entire home/apt,3,2,1,2,183,87,405.0
+761,Saint-Germain,Private room,1,1,3,1,156,66,225.0
+762,1st arrondissement,Private room,2,2,3,7,52,86,220.0
+763,Saint-Germain,Private room,2,3,1,14,295,72,275.0
+764,Champs-Élysées,Shared room,1,1,3,3,201,98,171.5
+765,Saint-Germain,Entire home/apt,1,1,3,7,273,98,337.5
+766,1st arrondissement,Shared room,3,3,2,12,174,62,171.5
+767,19th arrondissement,Private room,3,1,2,7,243,81,145.0
+768,Champs-Élysées,Private room,2,4,1,8,268,71,320.0
+769,7th arrondissement,Entire home/apt,3,1,1,1,410,56,307.5
+770,Saint-Germain,Entire home/apt,1,1,3,5,445,71,337.5
+771,1st arrondissement,Private room,2,4,5,10,73,70,270.0
+772,6th arrondissement,Private room,3,2,1,9,95,55,225.0
+773,2nd arrondissement,Shared room,2,2,3,12,360,63,150.5
+774,1st arrondissement,Private room,1,4,5,11,172,65,270.0
+775,Le Marais,Shared room,3,1,2,7,386,52,164.5
+776,2nd arrondissement,Entire home/apt,1,3,1,1,405,58,360.0
+777,6th arrondissement,Shared room,1,4,3,8,154,96,192.5
+778,Montmartre,Private room,2,3,2,3,182,70,255.0
+779,7th arrondissement,Shared room,2,2,4,13,322,99,161.0
+780,Latin Quarter,Shared room,2,4,2,4,288,79,182.0
+781,6th arrondissement,Entire home/apt,3,3,3,4,257,79,375.0
+782,19th arrondissement,Shared room,3,1,5,10,74,91,101.5
+783,2nd arrondissement,Private room,2,4,4,14,173,91,265.0
+784,19th arrondissement,Shared room,3,3,4,12,329,81,136.5
+785,2nd arrondissement,Shared room,3,4,4,8,230,72,185.5
+786,Le Marais,Shared room,2,4,1,1,246,52,217.0
+787,Montmartre,Private room,1,2,3,8,160,50,230.0
+788,Latin Quarter,Shared room,3,2,4,9,185,52,147.0
+789,Le Marais,Private room,3,1,2,9,390,86,235.0
+790,6th arrondissement,Shared room,1,2,5,5,142,56,157.5
+791,19th arrondissement,Entire home/apt,1,2,3,4,281,52,255.0
+792,2nd arrondissement,Entire home/apt,1,2,2,4,394,85,322.5
+793,6th arrondissement,Entire home/apt,2,3,1,9,127,98,375.0
+794,20th arrondissement,Private room,1,4,4,8,165,52,210.0
+795,1st arrondissement,Private room,2,2,2,10,26,53,220.0
+796,Montmartre,Private room,1,3,3,10,245,80,255.0
+797,7th arrondissement,Shared room,1,4,2,12,486,51,196.0
+798,1st arrondissement,Private room,2,2,1,7,134,63,220.0
+799,19th arrondissement,Private room,2,2,5,12,384,86,170.0
+800,Montmartre,Private room,1,4,4,3,201,80,280.0
+801,Montmartre,Private room,1,3,3,4,20,51,255.0
+802,6th arrondissement,Entire home/apt,1,3,4,9,78,80,375.0
+803,1st arrondissement,Shared room,3,1,4,14,157,96,136.5
+804,6th arrondissement,Entire home/apt,1,4,4,13,93,92,412.5
+805,6th arrondissement,Shared room,2,1,2,8,7,71,140.0
+806,20th arrondissement,Shared room,3,3,2,12,471,59,129.5
+807,6th arrondissement,Entire home/apt,2,2,5,12,338,79,337.5
+808,19th arrondissement,Private room,3,1,1,1,258,82,145.0
+809,2nd arrondissement,Entire home/apt,3,3,3,3,54,68,360.0
+810,2nd arrondissement,Shared room,2,3,2,14,398,95,168.0
+811,19th arrondissement,Shared room,3,2,4,12,35,74,119.0
+812,Latin Quarter,Private room,2,4,1,10,5,95,260.0
+813,7th arrondissement,Entire home/apt,1,3,3,2,376,50,382.5
+814,Le Marais,Shared room,3,1,3,2,41,81,164.5
+815,20th arrondissement,Entire home/apt,2,2,3,13,49,74,240.0
+816,7th arrondissement,Private room,3,4,3,13,111,90,280.0
+817,19th arrondissement,Private room,2,4,5,8,145,66,220.0
+818,Saint-Germain,Shared room,1,4,3,6,229,63,210.0
+819,Le Marais,Private room,1,3,1,12,210,94,285.0
+820,Latin Quarter,Shared room,3,4,2,12,496,62,182.0
+821,Champs-Élysées,Shared room,3,3,1,12,305,87,206.5
+822,Le Marais,Private room,2,2,4,13,29,88,260.0
+823,Montmartre,Private room,2,2,5,6,460,51,230.0
+824,19th arrondissement,Entire home/apt,3,4,5,4,294,81,330.0
+825,20th arrondissement,Entire home/apt,2,2,4,1,115,81,240.0
+826,Champs-Élysées,Shared room,2,1,1,11,395,89,171.5
+827,7th arrondissement,Entire home/apt,2,1,1,7,225,55,307.5
+828,Champs-Élysées,Shared room,3,3,4,8,58,74,206.5
+829,20th arrondissement,Private room,1,4,3,2,75,52,210.0
+830,19th arrondissement,Private room,1,3,3,2,427,67,195.0
+831,7th arrondissement,Entire home/apt,2,2,2,1,215,99,345.0
+832,19th arrondissement,Shared room,3,4,1,4,131,87,154.0
+833,1st arrondissement,Shared room,2,3,1,6,419,92,171.5
+834,Saint-Germain,Entire home/apt,1,4,4,14,497,52,450.0
+835,Latin Quarter,Shared room,2,4,4,5,303,97,182.0
+836,Latin Quarter,Shared room,1,3,3,4,397,54,164.5
+837,Montmartre,Private room,3,4,1,14,80,73,280.0
+838,Saint-Germain,Shared room,2,2,1,4,304,83,175.0
+839,Saint-Germain,Shared room,3,1,5,10,66,96,157.5
+840,Montmartre,Shared room,2,1,2,7,229,97,143.5
+841,7th arrondissement,Entire home/apt,2,4,2,7,470,88,420.0
+842,20th arrondissement,Entire home/apt,2,1,3,2,332,97,202.5
+843,Montmartre,Entire home/apt,2,4,1,13,392,73,420.0
+844,7th arrondissement,Shared room,2,3,5,7,276,85,178.5
+845,Montmartre,Shared room,3,2,1,2,360,77,161.0
+846,Le Marais,Entire home/apt,3,1,4,4,71,97,352.5
+847,Le Marais,Entire home/apt,1,3,3,1,208,98,427.5
+848,1st arrondissement,Shared room,2,2,2,5,271,83,154.0
+849,2nd arrondissement,Shared room,1,1,1,1,143,65,133.0
+850,20th arrondissement,Private room,3,1,3,4,250,85,135.0
+851,Montmartre,Entire home/apt,1,2,2,13,283,56,345.0
+852,Saint-Germain,Shared room,3,3,1,9,178,67,192.5
+853,Le Marais,Entire home/apt,2,3,5,13,439,55,427.5
+854,6th arrondissement,Entire home/apt,1,1,3,12,79,99,300.0
+855,7th arrondissement,Entire home/apt,1,2,1,8,56,77,345.0
+856,Le Marais,Private room,1,3,2,6,365,88,285.0
+857,Le Marais,Shared room,1,2,2,8,307,83,182.0
+858,19th arrondissement,Shared room,2,2,5,5,173,100,119.0
+859,7th arrondissement,Entire home/apt,3,1,3,7,461,90,307.5
+860,Latin Quarter,Shared room,3,2,3,8,237,78,147.0
+861,Champs-Élysées,Private room,2,2,1,7,491,53,270.0
+862,20th arrondissement,Entire home/apt,3,4,2,14,165,63,315.0
+863,7th arrondissement,Private room,1,2,2,4,83,54,230.0
+864,1st arrondissement,Private room,2,3,5,5,492,74,245.0
+865,19th arrondissement,Shared room,3,1,5,13,47,88,101.5
+866,7th arrondissement,Shared room,2,1,3,14,126,57,143.5
+867,7th arrondissement,Private room,2,2,2,10,168,64,230.0
+868,2nd arrondissement,Shared room,3,2,1,6,353,68,150.5
+869,19th arrondissement,Private room,3,3,4,14,373,60,195.0
+870,7th arrondissement,Private room,2,4,1,14,442,69,280.0
+871,Champs-Élysées,Entire home/apt,2,1,5,12,348,85,367.5
+872,Champs-Élysées,Private room,3,4,1,11,66,67,320.0
+873,6th arrondissement,Private room,2,3,2,6,329,63,250.0
+874,19th arrondissement,Shared room,3,1,3,13,339,87,101.5
+875,Latin Quarter,Entire home/apt,2,3,4,9,193,74,352.5
+876,7th arrondissement,Shared room,2,2,3,10,154,65,161.0
+877,2nd arrondissement,Entire home/apt,2,3,4,14,159,67,360.0
+878,2nd arrondissement,Shared room,3,2,4,14,183,50,150.5
+879,Saint-Germain,Private room,1,4,2,2,265,89,300.0
+880,Latin Quarter,Entire home/apt,3,1,2,6,167,50,277.5
+881,2nd arrondissement,Entire home/apt,2,1,5,13,144,50,285.0
+882,20th arrondissement,Entire home/apt,1,4,5,3,185,100,315.0
+883,20th arrondissement,Entire home/apt,1,2,4,14,373,70,240.0
+884,Champs-Élysées,Shared room,2,1,5,2,352,74,171.5
+885,Saint-Germain,Shared room,3,3,2,6,261,76,192.5
+886,Montmartre,Entire home/apt,1,2,5,4,422,59,345.0
+887,2nd arrondissement,Entire home/apt,1,1,4,5,494,99,285.0
+888,1st arrondissement,Entire home/apt,3,3,3,5,273,61,367.5
+889,19th arrondissement,Shared room,3,3,1,3,456,77,136.5
+890,2nd arrondissement,Entire home/apt,1,1,5,12,327,98,285.0
+891,Le Marais,Entire home/apt,3,4,2,4,344,81,465.0
+892,Latin Quarter,Entire home/apt,1,4,3,3,222,82,390.0
+893,Le Marais,Shared room,2,1,2,7,41,57,164.5
+894,6th arrondissement,Private room,3,3,5,1,3,91,250.0
+895,2nd arrondissement,Private room,1,4,4,6,275,75,265.0
+896,Montmartre,Shared room,3,4,1,4,283,91,196.0
+897,Le Marais,Private room,3,4,1,1,423,99,310.0
+898,Le Marais,Entire home/apt,1,2,3,1,192,90,390.0
+899,Latin Quarter,Entire home/apt,2,4,1,5,103,51,390.0
+900,Saint-Germain,Shared room,1,1,4,14,246,84,157.5
+901,Montmartre,Shared room,3,1,2,5,299,83,143.5
+902,Le Marais,Private room,1,2,4,10,22,55,260.0
+903,20th arrondissement,Private room,3,2,3,7,440,80,160.0
+904,7th arrondissement,Entire home/apt,1,1,3,13,302,72,307.5
+905,Montmartre,Shared room,2,2,1,12,12,61,161.0
+906,7th arrondissement,Private room,2,4,4,4,143,100,280.0
+907,2nd arrondissement,Private room,2,3,2,14,217,77,240.0
+908,Le Marais,Entire home/apt,2,3,4,9,182,64,427.5
+909,Le Marais,Entire home/apt,1,3,2,4,350,68,427.5
+910,Champs-Élysées,Entire home/apt,2,1,2,7,241,61,367.5
+911,Champs-Élysées,Entire home/apt,1,2,4,5,192,99,405.0
+912,Latin Quarter,Private room,3,3,5,5,464,97,235.0
+913,19th arrondissement,Shared room,3,4,4,6,271,51,154.0
+914,19th arrondissement,Shared room,3,4,2,8,374,60,154.0
+915,Saint-Germain,Entire home/apt,2,4,3,5,164,93,450.0
+916,Latin Quarter,Entire home/apt,2,2,3,3,179,86,315.0
+917,19th arrondissement,Private room,2,3,1,6,116,87,195.0
+918,Latin Quarter,Entire home/apt,3,4,3,14,265,74,390.0
+919,Le Marais,Shared room,3,2,5,12,377,92,182.0
+920,Champs-Élysées,Entire home/apt,3,4,2,14,37,70,480.0
+921,Champs-Élysées,Shared room,3,3,4,2,43,91,206.5
+922,Champs-Élysées,Entire home/apt,1,3,4,12,350,85,442.5
+923,20th arrondissement,Entire home/apt,1,3,5,12,73,58,277.5
+924,20th arrondissement,Shared room,2,3,3,8,437,61,129.5
+925,19th arrondissement,Private room,2,3,2,8,368,59,195.0
+926,Montmartre,Private room,3,4,3,3,225,95,280.0
+927,1st arrondissement,Entire home/apt,1,3,1,12,306,54,367.5
+928,20th arrondissement,Entire home/apt,1,4,3,8,307,82,315.0
+929,Le Marais,Shared room,2,3,1,9,453,54,199.5
+930,2nd arrondissement,Shared room,1,4,4,5,347,65,185.5
+931,Latin Quarter,Entire home/apt,2,3,2,5,475,86,352.5
+932,Champs-Élysées,Shared room,3,4,1,6,314,86,224.0
+933,Champs-Élysées,Private room,3,3,3,7,12,78,295.0
+934,Champs-Élysées,Private room,2,2,3,3,424,67,270.0
+935,Le Marais,Shared room,3,4,4,5,11,78,217.0
+936,Champs-Élysées,Shared room,3,2,5,1,49,55,189.0
+937,Saint-Germain,Shared room,1,4,5,11,487,67,210.0
+938,Latin Quarter,Private room,1,4,3,10,312,81,260.0
+939,Le Marais,Entire home/apt,1,4,5,5,433,91,465.0
+940,Latin Quarter,Shared room,1,1,2,4,248,96,129.5
+941,7th arrondissement,Shared room,1,3,5,1,118,80,178.5
+942,6th arrondissement,Shared room,2,2,2,7,56,60,157.5
+943,20th arrondissement,Entire home/apt,2,2,3,1,181,75,240.0
+944,Saint-Germain,Shared room,1,4,3,13,449,77,210.0
+945,Montmartre,Shared room,3,2,3,8,263,76,161.0
+946,Montmartre,Private room,3,2,4,14,105,68,230.0
+947,1st arrondissement,Shared room,2,2,5,10,190,94,154.0
+948,Saint-Germain,Private room,2,2,1,12,136,76,250.0
+949,Latin Quarter,Entire home/apt,2,1,1,2,187,69,277.5
+950,Montmartre,Shared room,3,4,3,10,119,52,196.0
+951,6th arrondissement,Shared room,2,2,5,13,241,65,157.5
+952,Montmartre,Private room,3,1,2,12,318,88,205.0
+953,Champs-Élysées,Entire home/apt,2,1,1,5,71,93,367.5
+954,1st arrondissement,Entire home/apt,3,4,3,13,242,78,405.0
+955,Le Marais,Private room,2,3,1,6,130,64,285.0
+956,2nd arrondissement,Entire home/apt,2,3,1,9,456,79,360.0
+957,2nd arrondissement,Entire home/apt,3,3,1,14,268,89,360.0
+958,Montmartre,Entire home/apt,2,2,3,7,392,98,345.0
+959,Latin Quarter,Entire home/apt,1,4,3,6,478,50,390.0
+960,Latin Quarter,Entire home/apt,3,3,4,5,472,78,352.5
+961,Champs-Élysées,Entire home/apt,2,2,4,6,51,79,405.0
+962,Montmartre,Entire home/apt,3,4,4,14,491,89,420.0
+963,Montmartre,Entire home/apt,2,2,1,11,61,95,345.0
+964,2nd arrondissement,Shared room,1,3,5,4,118,81,168.0
+965,7th arrondissement,Private room,2,3,3,1,364,59,255.0
+966,Montmartre,Entire home/apt,2,1,4,12,263,76,307.5
+967,Le Marais,Private room,1,1,5,9,238,100,235.0
+968,1st arrondissement,Entire home/apt,3,4,4,11,350,57,405.0
+969,1st arrondissement,Entire home/apt,2,2,4,5,380,100,330.0
+970,Le Marais,Shared room,2,2,5,8,254,85,182.0
+971,7th arrondissement,Private room,1,3,4,7,172,91,255.0
+972,Latin Quarter,Private room,3,3,1,8,308,84,235.0
+973,2nd arrondissement,Shared room,3,4,1,1,236,85,185.5
+974,1st arrondissement,Shared room,1,1,1,9,318,97,136.5
+975,20th arrondissement,Private room,1,3,2,1,94,85,185.0
+976,20th arrondissement,Entire home/apt,2,2,4,3,336,74,240.0
+977,Saint-Germain,Entire home/apt,1,3,2,8,494,69,412.5
+978,6th arrondissement,Private room,1,1,3,12,56,94,200.0
+979,2nd arrondissement,Entire home/apt,1,2,5,11,437,66,322.5
+980,7th arrondissement,Shared room,3,1,3,1,402,72,143.5
+981,Saint-Germain,Shared room,1,4,2,14,66,74,210.0
+982,Montmartre,Shared room,2,4,1,1,45,97,196.0
+983,Le Marais,Private room,2,1,4,6,93,98,235.0
+984,20th arrondissement,Private room,2,2,4,5,137,80,160.0
+985,Montmartre,Private room,1,1,1,11,368,55,205.0
+986,20th arrondissement,Entire home/apt,3,3,4,6,92,84,277.5
+987,Champs-Élysées,Private room,1,3,5,3,231,53,295.0
+988,19th arrondissement,Private room,1,1,5,10,401,89,145.0
+989,Le Marais,Shared room,2,3,5,12,395,69,199.5
+990,Saint-Germain,Entire home/apt,1,1,3,10,48,90,337.5
+991,6th arrondissement,Entire home/apt,3,3,1,6,22,50,375.0
+992,19th arrondissement,Shared room,2,1,5,2,61,94,101.5
+993,Champs-Élysées,Entire home/apt,3,3,2,8,266,75,442.5
+994,Latin Quarter,Private room,3,2,5,12,328,83,210.0
+995,Champs-Élysées,Entire home/apt,3,2,3,6,117,59,405.0
+996,19th arrondissement,Shared room,1,3,2,13,439,72,136.5
+997,1st arrondissement,Entire home/apt,1,1,1,13,87,100,292.5
+998,2nd arrondissement,Shared room,1,3,1,4,88,98,168.0
+999,7th arrondissement,Private room,1,4,5,4,54,73,280.0
+1000,Montmartre,Private room,2,4,2,14,152,62,280.0
